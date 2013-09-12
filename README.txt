@@ -1,7 +1,8 @@
 t9encryption
 ------------
 
-T9 Encryption - Encrypt your Text Messages or Passwords with Highly Secured Custom Algorithms instead of tradition MD5, etc.
+T9 Encryption - Encrypt your Text Messages or Passwords with
+Highly Secured Custom Algorithms instead of tradition MD5, etc.
 
 
 This class offers a custom algorith that can be further
@@ -28,4 +29,7 @@ file source code to see the how we called the class.
 t9enc.php - This is the main T9 Encrpytion class that
 is used to encrypt.
 
-License: You may use, alter and re-use the contents of this folder free of charge, with or without giving credit to the author. Under no circumstances is the author responsible for ANY and ALL damages caused by the application.
+License: You may use, alter and re-use the contents of this
+folder free of charge, with or without giving credit to the
+author. Under no circumstances is the author responsible for
+ANY and ALL damages caused by the application.
